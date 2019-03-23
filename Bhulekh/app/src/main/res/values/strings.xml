@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Bhulekh</string>
+    <string name="district_eng">District</string>
+    <string name="district">जनपद :</string>
+    <string name="tehsil_eng">Tehsil</string>
+    <string name="tehsil">तहसील :</string>
+    <string name="pargana_eng">Pargana</string>
+    <string name="pargana">परगना</string>
+    <string name="village">ग्राम :</string>
+    <string name="village_eng">Village</string>
+    <string name="khata">खाता</string>
+    <string name="khata_no">खाता संख्या :</string>
+    <string name="fasli_year">फसली वर्ष :</string>
+    <string name="part">भाग :</string>
+    <string name="type">श्रेणी :</string>
+    <string name="owner_name1">संरक्षक का नाम :</string>
+    <string name="address">निवास स्थान :</string>
+    <string name="khasra_no">खसरा संख्या :</string>
+    <string name="area">क्षेत्रफल(हे.) :</string>
+    <string name="order">आदेश :</string>
+    <string name="remark">टिपण्णी :</string>
+    <string name="khata_eng">Khata</string>
+    <string name="owner">खातेदार का नाम</string>
+    <string name="owner_eng">Owner</string>
+    <string name="select">चयन करें</string>
+    <string name="select_eng">Select</string>
+    <string name="nonetwork">इन्टरनेट उपलब्ध नहीं है!</string>
+    <string name="nonetwork_eng">Network Not Available</string>
+    <string name="scan">QR कोड स्कैन करें</string>
+    <string name="scan_eng">Scan QR Code</string>
+
+    <string name="null_district">कृपया जनपद चुनें!</string>
+    <string name="null_district_eng">Please Select District!</string>
+    <string name="null_tehsil">कृपया तहसील चुनें!</string>
+    <string name="null_tehsil_eng">Please Select Tehsil!</string>
+    <string name="null_Pargana">कृपया परगना चुनें!</string>
+    <string name="null_Pargana_eng">Please Select Pargana!</string>
+    <string name="null_village">कृपया गाँव चुनें!</string>
+    <string name="null_village_eng">Please Select Village!</string>
+    <string name="null_khata">कृपया खाता चुनें!</string>
+    <string name="null_khata_eng">Please Select Khata!</string>
+    <string name="null_owner">कृपया खातेदार का नाम चुनें!</string>
+    <string name="null_owner_eng">Please Select Owner!</string>
+    <string name="msg_wait">कृपया इंतज़ार करें...</string>
+    <string name="msg_wait_eng">Please wait...</string>
+
+    <string name="board_txt">राजस्व परिषद, लखनऊ</string>
+    <string name="get_record">खाते डाउनलोड करे</string>
+    <string name="get_record_eng">Get Record</string>
+
+    <string name="owner_name">Owner : </string>
+    <string name="seq_num">Sequence Number : </string>
+    <string name="search">Search</string>
+    <string name="search_hin">खोजे</string>
+    <string name="enter_khatanum">Enter Khata Number</string>
+    <string name="enter_khatanum_hin">यहाँ खाता संख्या भरे</string>
+    <string name="crash_msg_eng">Your internet connection is slow or server is not responding.</string>
+    <string name="crash_msg">इन्टरनेट कनेक्शन में कोई समस्या है अथवा सर्वर से संपर्क स्थापित नहीं हो पा रहा है!</string>
+    <string name="err_msg_id">Invalid Email address</string>
+    <string name="err_msg_password">Invalid Password</string>
+    <string name="scan_msg">Click on Scan Button to scan your Aadhar Card Details</string>
+    <string name="scan_again_eng">Scan Again</string>
+    <string name="scan_again">दूसरा डाटा स्कैन करें</string>
+    <string name="uid">UID :</string>
+    <string name="name">Name :</string>
+    <string name="gender">Gender :</string>
+    <string name="yob">Year of Birth :</string>
+    <string name="co">CO :</string>
+    <string name="house">House :</string>
+    <string name="lm">Local/Mohalla :</string>
+    <string name="loc">Location :</string>
+    <string name="street">Street : </string>
+    <string name="vtc">Village/Tehsil/City : </string>
+    <string name="po">Post Office :</string>
+    <string name="dist">District :</string>
+    <string name="subdist">Sub District :</string>
+    <string name="state">State :</string>
+    <string name="pc">Pincode : </string>
+    <string name="dob">Date of Birth :</string>
+    <string name="sync">समस्त डाटा सिंक्रोनाइज करें!</string>
+    <string name="onsuccess">डाटा सफलतापूर्ण सुरक्षित हो गया है|</string>
+    <string name="enter_pass">पासवर्ड भरे</string>
+    <string name="enter_id">अपनी आईडी भरे</string>
+    <string name="login">लॉगइन करे</string>
+    <string name="note_sync_eng">\nOffline Scanning : Don\'t forget to Synchonize your data after completing scanning.\n</string>
+    <string name="note_sync">नोट:\n सारे डाटा स्कैन करने के बाद सिंक्रोनाइज करना ना भूले|\n</string>
+    <string name="sync_error_internet_eng">Data can be synced when internet is present or ON</string>
+    <string name="sync_error_internet">इन्टरनेट मौजूद नहीं! डाटा सिर्फ इन्टरनेट होने पे ही सिंक्रोनाइज किया जा सक्ता हैं|</string>
+    <string name="error_wrong_eng">Something went wrong!!!</string>
+    <string name="error_wrong">त्रुटी के लिए खेद हैं!</string>
+    <string name="confirm_online_eng">Are you sure want to submit data scanned to server?</string>
+    <string name="confirm_online">क्या आप डाटा को सर्वर पे भेजने के लिए सुनिश्चित है?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="sync_off_confirm_eng">There is no internet connection. Do you want to save your data offline and Synchonize to server later?</string>
+    <string name="sync_off_confirm">इन्टरनेट मौजूद नहीं! क्या आप अपना डाटा ऑफलाइन सेव करना चाहते हैं?</string>
+    <string name="sync_on_confirm_eng">Are you sure want to submit data to server?</string>
+    <string name="home">Home</string>
+    <string name="logout_msg">आप सफलतापूर्वक बाहर आ गयें|</string>
+    <string name="logout_msg_eng">Logged Successfully</string>
+    <string name="logout_village_msg">अब आप दूसरें गाँव का चुनाव कर सकतें हैं|</string>
+    <string name="logout_village_msg_eng">Logged out Successfully</string>
+    <string name="logout_msg_ask">क्या आप लॉगआउट करने के लिए सुनिश्चित हैं?</string>
+    <string name="logout_msg_ask_eng">Are you sure, you want to logout?</string>
+    <string name="village_logout_msg_ask">क्या आप दूसरे गाँव का चुनाव करना चाहते हैं? विकल्प सुनिश्चित करें!</string>
+    <string name="village_logout_msg_ask_eng">Are you sure want to select another village?</string>
+    <string name="choice_confirm">विकल्प सुनिश्चित हो गया!</string>
+
+
+    <!--CAPTCHA Resources-->
+    <string name="instruction">Enter the words above</string>
+    <string name="verify">Verify</string>
+    <string name="reload">Reload</string>
+    <string name="show_error">Failed to show CAPTCHA</string>
+    <string name="verification_success">Your answer is verified successfully</string>
+    <string name="verification_failed">You did not enter the CAPTCHA phrase correctly</string>
+    <string name="incorrect_pass">कृपया सही पासवर्ड भरें!</string>
+    <string name="incorrect_id">कृपया सही आई.डी. भरें!</string>
+    <string name="aadhaar_exists">यह आधार खाते में पहले से उपलब्ध हैं|</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
